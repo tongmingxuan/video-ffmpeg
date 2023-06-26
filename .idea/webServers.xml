@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="68031d3d-b694-490d-87ee-a4ec579abbe1" name="s">
+        <fileTransfer rootFolder="/www/wwwroot/video.service.keepdiary.top" accessType="SFTP" host="39.106.100.168" port="22" sshConfigId="9c1649a2-fac8-419b-90e7-0c6cb5fccc76" sshConfig="root@39.106.100.168:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
